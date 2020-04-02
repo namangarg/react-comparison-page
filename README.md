@@ -14,9 +14,9 @@ Table gets displayed
 
 ![image](https://user-images.githubusercontent.com/11676394/78295648-1ba43f00-754a-11ea-835b-e4550e030224.png)
 
-If More than 1 product is selected
+If only 1 product is there you can add products from dropdown
 
 ![image](https://user-images.githubusercontent.com/11676394/78295797-4f7f6480-754a-11ea-9277-4764b3a59aa8.png)
 
-
+If More than 1 product is selected
 ![image](https://user-images.githubusercontent.com/11676394/78295885-7178e700-754a-11ea-934e-3887ee4ebbfb.png)
